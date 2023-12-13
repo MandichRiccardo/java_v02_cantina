@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Cantina
+comment1.params=
+comment1.target=Cantina()
+comment10.params=
+comment10.target=java.lang.String\ cercaPiuPrezioso()
+comment2.params=nome\ proprietario\ metriQ\ dimensioneCantina\ prezzoTop
+comment2.target=Cantina(java.lang.String,\ Persona,\ double,\ int,\ double)
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=
+comment4.target=Persona\ getProprietario()
+comment5.params=
+comment5.target=double\ getMetriQ()
+comment6.params=
+comment6.target=java.lang.String\ getElencoBottiglie()
+comment7.params=
+comment7.target=double\ getPrezzoTop()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=bot
+comment9.target=java.lang.String\ aggiungiBottiglia(BottigliaVino)
+numComments=11

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=BottigliaVino
+comment1.params=vigneto\ tipologia\ colore\ luogoImbottigliamento\ annoImbottigliamento\ prezzoStimato
+comment1.target=BottigliaVino(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ double)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment11.params=bot
+comment11.target=boolean\ equals(BottigliaVino)
+comment2.params=bot
+comment2.target=BottigliaVino(BottigliaVino)
+comment3.params=
+comment3.target=java.lang.String\ getVigneto()
+comment4.params=
+comment4.target=java.lang.String\ getTipologia()
+comment5.params=
+comment5.target=java.lang.String\ getColore()
+comment6.params=
+comment6.target=java.lang.String\ getLuogoImbottigliamento()
+comment7.params=
+comment7.target=int\ getAnnoImbottigliamento()
+comment8.params=
+comment8.target=double\ getPrezzoStimato()
+comment9.params=prezzoStimato
+comment9.target=void\ setPrezzoStimato(double)
+numComments=12
